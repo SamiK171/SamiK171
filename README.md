@@ -2,8 +2,7 @@
 
 **Who Am I?** ✏
 
-My name is Sami Khan, and I am currently pursuing Computer Science at the University of Toronto! Programming has been a hobby of mine since childhood, and I enjoy using it to 
-develop real-world solutions, curate my personal interests, and experiment with new technologies. 
+My name is Sami Khan, and I am an Aspiring Software Engineer, currently pursuing a degree in Computer Science at the University of Toronto. Programming has been a hobby of mine since childhood, and I enjoy using it to develop real-world solutions, curate my personal interests, and experiment with new technologies! 
 
 **Languages**
 
